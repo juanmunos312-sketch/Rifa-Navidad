@@ -89,7 +89,7 @@ const TICKETS = [
   { number: "74", status: "available", buyer: null },
   { number: "75", status: "available", buyer: null },
   { number: "76", status: "available", buyer: null },
-  { number: "77", status: "available", buyer: null },
+  { number: "77", status: "sold", buyer: "Laura Paola" },
   { number: "78", status: "available", buyer: null },
   { number: "79", status: "available", buyer: null },
   { number: "80", status: "available", buyer: null },
