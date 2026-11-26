@@ -43,7 +43,7 @@ const TICKETS = [
   { number: "28", status: "available", buyer: null },
   { number: "29", status: "sold", buyer: "Luna Sofia" },
   { number: "30", status: "available", buyer: null },
-  { number: "31", status: "available", buyer: null },
+  { number: "31", status: "sold", buyer: "Loren Sofia" },
   { number: "32", status: "available", buyer: null },
   { number: "33", status: "available", buyer: null },
   { number: "34", status: "available", buyer: null },
